@@ -1,0 +1,19 @@
+#version 430 core
+
+// Size of the output patch & no. of times the TCS will be executed
+layout (vertices = 4) out;
+
+uniform float Resolution;
+
+void main()
+{
+	gl_TessLevelOuter[0] = 100;
+	gl_TessLevelOuter[1] = 100;
+	gl_TessLevelOuter[2] = 100;
+	gl_TessLevelOuter[3] = 100;
+
+	gl_TessLevelInner[0] = Resolution;
+	gl_TessLevelInner[1] = Resolution;
+
+	gl_out[gl_InvocationID].gl_Position = gl_in[gl_InvocationID].gl_Position;
+}

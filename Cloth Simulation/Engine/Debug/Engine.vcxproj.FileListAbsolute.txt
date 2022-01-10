@@ -1,0 +1,2 @@
+D:\Projects\C++\Game\Debug\Engine.pdb
+D:\Projects\C++\Game\Engine\Debug\Engine.pdb

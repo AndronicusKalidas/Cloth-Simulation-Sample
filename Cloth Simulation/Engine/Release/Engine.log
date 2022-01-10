@@ -1,0 +1,126 @@
+﻿  gpu2DParticleLayer.cpp
+  colourPicker.cpp
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\colourPicker.cpp(137,82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\colourPicker.cpp(137,63): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\colourPicker.cpp(137,44): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\colourPicker.cpp(235,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\colourPicker.cpp(235,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\colourPicker.cpp(236,20): warning C4305: '/=': truncation from 'double' to 'float'
+  fboObject.cpp
+  guiLayer.cpp
+  meshArray.cpp
+  cameraFirsPerson.cpp
+  perlinNoise.cpp
+  guiControl.cpp
+  particleLayer3D.cpp
+  particle3D.cpp
+  label.cpp
+  slider.cpp
+  modelMesh.cpp
+  model.cpp
+  button.cpp
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\button.cpp(185,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\button.cpp(186,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\button.cpp(198,23): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\button.cpp(199,23): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  particleLayer.cpp
+  instanceLayer.cpp
+  backgroundLayer.cpp
+  room.cpp
+  font.cpp
+  Generating Code...
+  Compiling...
+  camera2D.cpp
+  camera3D.cpp
+  cameraRotate3D.cpp
+  cameraFollow.cpp
+  manager.cpp
+  particle.cpp
+  graphics.cpp
+  boundingBox.cpp
+  soundManager.cpp
+  input.cpp
+  camera.cpp
+  helper.cpp
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\helper.cpp(312,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\helper.cpp(477,10): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\helper.cpp(486,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\helper.cpp(496,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\helper.cpp(499,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\helper.cpp(501,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  mesh.cpp
+  object.cpp
+  program.cpp
+  sprite.cpp
+  texture.cpp
+  tilemapLayer.cpp
+  timer.cpp
+  textBox.cpp
+D:\Projects\C++\Cloth Simulation\Cloth Simulation\Engine\src\textBox.cpp(12,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  terrain.cpp
+  uniformManager.cpp
+  texturedParticleLayer.cpp
+  Generating Code...
+freeglut.lib(freeglut.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+freetype.lib(freetype6.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  Engine.vcxproj -> D:\Projects\C++\Cloth Simulation\Cloth Simulation\Release\Engine.lib

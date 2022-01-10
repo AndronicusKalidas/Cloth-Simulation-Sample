@@ -1,0 +1,105 @@
+﻿  button.cpp
+D:\Projects\C++\Game\Engine\src\button.cpp(185,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Projects\C++\Game\Engine\src\button.cpp(186,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Projects\C++\Game\Engine\src\button.cpp(198,23): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Projects\C++\Game\Engine\src\button.cpp(199,23): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  cameraRotate3D.cpp
+  colourPicker.cpp
+D:\Projects\C++\Game\Engine\src\colourPicker.cpp(137,82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\colourPicker.cpp(137,63): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\colourPicker.cpp(137,44): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\colourPicker.cpp(235,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects\C++\Game\Engine\src\colourPicker.cpp(235,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\Game\Engine\src\colourPicker.cpp(236,20): warning C4305: '/=': truncation from 'double' to 'float'
+  font.cpp
+  gpu2DParticleLayer.cpp
+  graphics.cpp
+  guiControl.cpp
+  helper.cpp
+D:\Projects\C++\Game\Engine\src\helper.cpp(312,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\Game\Engine\src\helper.cpp(477,10): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\helper.cpp(486,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\helper.cpp(496,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\helper.cpp(499,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\Game\Engine\src\helper.cpp(501,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  input.cpp
+  instanceLayer.cpp
+  mesh.cpp
+  object.cpp
+  particle3D.cpp
+  particleLayer.cpp
+  particleLayer3D.cpp
+  program.cpp
+  slider.cpp
+  soundManager.cpp
+  sprite.cpp
+  terrain.cpp
+  Generating Code...
+  Compiling...
+  textBox.cpp
+D:\Projects\C++\Game\Engine\src\textBox.cpp(12,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  texture.cpp
+  texturedParticleLayer.cpp
+  tilemapLayer.cpp
+  Generating Code...
+freeglut.lib(freeglut.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+freetype.lib(freetype6.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  Engine.vcxproj -> D:\Projects\C++\Game\Debug\Engine.lib

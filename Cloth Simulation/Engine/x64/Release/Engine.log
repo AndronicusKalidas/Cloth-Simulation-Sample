@@ -1,0 +1,66 @@
+﻿  boundingBox.cpp
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(73,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(73,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(74,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(74,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(76,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(85,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(85,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(86,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(86,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(88,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(96,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(96,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(97,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\boundingBox.cpp(97,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  soundManager.cpp
+  manager.cpp
+  input.cpp
+  camera.cpp
+  helper.cpp
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\helper.cpp(260,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\helper.cpp(266,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\helper.cpp(266,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  mesh.cpp
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\mesh.cpp(123,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\mesh.cpp(149,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\mesh.cpp(194,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  object.cpp
+  program.cpp
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\program.cpp(124,40): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\program.cpp(124,40): warning C4267: 'initializing': conversion from 'size_t' to 'const GLint', possible loss of data
+  sprite.cpp
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\sprite.cpp(140,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\sprite.cpp(170,49): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  texture.cpp
+  tilemap.cpp
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(77,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(85,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(85,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(265,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(270,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(280,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(280,77): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(290,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\toiti\Desktop\Temporary\Game\Engine\src\tilemap.cpp(290,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+freeglut.lib(freeglut.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  Engine.vcxproj -> C:\Users\toiti\Desktop\Temporary\Game\x64\Release\Engine.lib

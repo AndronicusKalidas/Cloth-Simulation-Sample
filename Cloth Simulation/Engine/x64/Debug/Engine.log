@@ -1,0 +1,39 @@
+﻿  font.cpp
+  camera2D.cpp
+  camera3D.cpp
+  cameraRotate3D.cpp
+  cameraFollow.cpp
+  manager.cpp
+  particleSystem.cpp
+  particle.cpp
+  graphics.cpp
+  boundingBox.cpp
+  soundManager.cpp
+  input.cpp
+  camera.cpp
+  helper.cpp
+  mesh.cpp
+D:\Projects\C++\Game\Engine\src\mesh.cpp(124,43): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\Game\Engine\src\mesh.cpp(150,43): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\Game\Engine\src\mesh.cpp(195,43): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\Game\Engine\src\mesh.cpp(223,40): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\Game\Engine\src\mesh.cpp(262,40): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  object.cpp
+  program.cpp
+D:\Projects\C++\Game\Engine\src\mesh.cpp(329,40): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\Game\Engine\src\program.cpp(159,40): warning C4267:  'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+  sprite.cpp
+D:\Projects\C++\Game\Engine\src\program.cpp(159,40): warning C4267:  'initializing': conversion from 'size_t' to 'const GLint', possible loss of data
+D:\Projects\C++\Game\Engine\src\sprite.cpp(141,40): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  texture.cpp
+  tilemap.cpp
+D:\Projects\C++\Game\Engine\src\sprite.cpp(171,49): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  timer.cpp
+  Generating Code...
+D:\Projects\C++\Game\Engine\src\tilemap.cpp(417,83): warning C4244:  'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+freeglut.lib(freeglut.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  Engine.vcxproj -> D:\Projects\C++\Game\x64\Debug\Engine.lib
